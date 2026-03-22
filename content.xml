@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260322135331ENU8V4</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202603221353312YN0PM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>GEOMETRÍA EN NUESTRO ENTORNO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774183990861</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn1rc8pw-uv9a6ksz4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INTRODUCCIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8pw-uv9a6ksz4</odePageId>
+      <odeBlockId>20260322124403UPLXWE</odeBlockId>
+      <blockName>¿CÓMO SE ORIGINÓ LA GEOMETRÍA?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8pw-uv9a6ksz4</odePageId>
+          <odeBlockId>20260322124403UPLXWE</odeBlockId>
+          <odeIdeviceId>2026031919190288135T</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;"><img src="{{context_path}}/content/resources/2026031919190288135T/Captura_de_pantalla_2026-03-20_a_las_9.45.55.png" width="490" height="262" alt=""></p>
+<p>Hace miles de años, mucho antes de que existieran los libros de matemáticas, las personas ya necesitaban la geometría, aunque no lo supieran.<br>Por ejemplo, los agricultores del antiguo Egipto tenían que medir sus campos después de que el río Nilo se desbordara y borrara los límites de las tierras. Para hacerlo, utilizaban cuerdas y formaban figuras como triángulos y rectángulos. Así empezó a desarrollarse la geometría.</p>
+<p>La palabra geometría significa literalmente “medir la tierra”. Al principio servía para resolver problemas prácticos: construir casas, dividir terrenos o levantar templos y pirámides.</p>
+<p>Con el tiempo, algunos pensadores de la antigua Grecia comenzaron a preguntarse algo más:<br>¿Se pueden explicar las formas del mundo con reglas matemáticas?</p>
+<p>Personas como matemáticos griegos estudiaron líneas, ángulos y figuras para entender cómo funciona el espacio. Gracias a ellos, la geometría pasó de ser solo una herramienta práctica a una ciencia que explica muchas cosas de nuestro entorno.</p>
+<p>Pero lo más interesante es que la geometría no está solo en los libros.<br>Si miramos a nuestro alrededor, podemos verla en muchos lugares:</p>
+<p>En los caminos rectos de un parque.<br>En los hexágonos de un panal de abejas.<br>En las formas de las hojas y las flores.<br>En los columpios, bancos o farolas de una zona verde.<br>Incluso en las baldosas del suelo o en las pistas deportivas.<br>La geometría está en la naturaleza y en las ciudades porque las formas ayudan a que las cosas funcionen mejor y sean más resistentes o bonitas. En realidad, vivimos rodeados de figuras geométricas sin darnos cuenta.</p>
+<p>La próxima vez que pasees por un parque o por tu barrio, intenta descubrir triángulos, círculos, rectángulos o patrones que se repiten.&nbsp; Probablemente encontrarás más de los que imaginas.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026031919190288135T","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/2026031919190288135T/Captura_de_pantalla_2026-03-20_a_las_9.45.55.png\" width=\"490\" height=\"262\" alt=\"\" /></p>\n<p>Hace miles de años, mucho antes de que existieran los libros de matemáticas, las personas ya necesitaban la geometría, aunque no lo supieran.<br />Por ejemplo, los agricultores del antiguo Egipto tenían que medir sus campos después de que el río Nilo se desbordara y borrara los límites de las tierras. Para hacerlo, utilizaban cuerdas y formaban figuras como triángulos y rectángulos. Así empezó a desarrollarse la geometría.</p>\n<p>La palabra geometría significa literalmente “medir la tierra”. Al principio servía para resolver problemas prácticos: construir casas, dividir terrenos o levantar templos y pirámides.</p>\n<p>Con el tiempo, algunos pensadores de la antigua Grecia comenzaron a preguntarse algo más:<br />¿Se pueden explicar las formas del mundo con reglas matemáticas?</p>\n<p>Personas como matemáticos griegos estudiaron líneas, ángulos y figuras para entender cómo funciona el espacio. Gracias a ellos, la geometría pasó de ser solo una herramienta práctica a una ciencia que explica muchas cosas de nuestro entorno.</p>\n<p>Pero lo más interesante es que la geometría no está solo en los libros.<br />Si miramos a nuestro alrededor, podemos verla en muchos lugares:</p>\n<p>En los caminos rectos de un parque.<br />En los hexágonos de un panal de abejas.<br />En las formas de las hojas y las flores.<br />En los columpios, bancos o farolas de una zona verde.<br />Incluso en las baldosas del suelo o en las pistas deportivas.<br />La geometría está en la naturaleza y en las ciudades porque las formas ayudan a que las cosas funcionen mejor y sean más resistentes o bonitas. En realidad, vivimos rodeados de figuras geométricas sin darnos cuenta.</p>\n<p>La próxima vez que pasees por un parque o por tu barrio, intenta descubrir triángulos, círculos, rectángulos o patrones que se repiten.  Probablemente encontrarás más de los que imaginas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8px-qu4q6iimx</odePageId>
+  <odeParentPageId>page-mn1rc8pw-uv9a6ksz4</odeParentPageId>
+  <pageName>CRONOLOGÍA DE NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRONOLOGÍA DE NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRONOLOGÍA DE NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8px-qu4q6iimx</odePageId>
+      <odeBlockId>20260322124403RTBEAZ</odeBlockId>
+      <blockName>¿QUÉ TRABAJAREMOS Y CUÁNDO?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8px-qu4q6iimx</odePageId>
+          <odeBlockId>20260322124403RTBEAZ</odeBlockId>
+          <odeIdeviceId>20260321142156025FO8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En esta presentación podéis ver de un vistazo simplificado todo lo que trabajaremos en este proyecto, dividido en las diez sesiones que hemos programado para realizarlo.&nbsp;&nbsp;</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEL5QANkk/H4ouktRQZlbLVwms0-pb0g/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p style="text-align: center;"><a href="https://www.canva.com/design/DAHEL5QANkk/H4ouktRQZlbLVwms0-pb0g/view?utm_content=DAHEL5QANkk&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Presentación de Gráficos Visuales Líneas de Tiempo Moderna Infográfica Multicolor</a> de Francisco Alfaro Dorado</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260321142156025FO8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta presentación podéis ver de un vistazo simplificado todo lo que trabajaremos en este proyecto, dividido en las diez sesiones que hemos programado para realizarlo.  </p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEL5QANkk/H4ouktRQZlbLVwms0-pb0g/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://www.canva.com/design/DAHEL5QANkk/H4ouktRQZlbLVwms0-pb0g/view?utm_content=DAHEL5QANkk&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Presentación de Gráficos Visuales Líneas de Tiempo Moderna Infográfica Multicolor</a> de Francisco Alfaro Dorado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8py-0a9gvmuu7</odePageId>
+  <odeParentPageId>page-mn1rc8pw-uv9a6ksz4</odeParentPageId>
+  <pageName>HERRAMIENTAS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8py-0a9gvmuu7</odePageId>
+      <odeBlockId>20260322124403MCHTHM</odeBlockId>
+      <blockName>¿CÓN QUÉ APLICACIONES TRABAJAREMOS?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8py-0a9gvmuu7</odePageId>
+          <odeBlockId>20260322124403MCHTHM</odeBlockId>
+          <odeIdeviceId>202603212048559987KD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Os dejo por aquí un paddlet donde he colgado las herramientas que creo os serán de utilidad para vuestro proyecto. Si pensáis alguna otra, podéis consultarme y lo debatimos.&nbsp;</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/zk27uo7vcbz2tqiz" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet"></a></div>
+</div>
+<p></p>
+<p></p>
+<p>Esas son las herramientas que os propongo para la elaboración de vuestro proyecto.&nbsp; Para la evaluación del mismo, como ya estáis acostumbrados, usaré las herramientas habituales que también os recuerdo a continuación:</p>
+<p style="text-align: center;"><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/shared/AAAABuc-NkYAA42ADs9Vpw=="></iframe></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603212048559987KD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo por aquí un paddlet donde he colgado las herramientas que creo os serán de utilidad para vuestro proyecto. Si pensáis alguna otra, podéis consultarme y lo debatimos. </p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/zk27uo7vcbz2tqiz\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<p></p>\n<p></p>\n<p>Esas son las herramientas que os propongo para la elaboración de vuestro proyecto.  Para la evaluación del mismo, como ya estáis acostumbrados, usaré las herramientas habituales que también os recuerdo a continuación:</p>\n<p style=\"text-align: center;\"><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/shared/AAAABuc-NkYAA42ADs9Vpw==\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8py-83unexop8</odePageId>
+  <odeParentPageId>page-mn1rc8pw-uv9a6ksz4</odeParentPageId>
+  <pageName>VEO, PIENSO, ME PREGUNTO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VEO, PIENSO, ME PREGUNTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VEO, PIENSO, ME PREGUNTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>VEO, PIENSO, ME PREGUNTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8py-83unexop8</odePageId>
+      <odeBlockId>20260322124403XAOXKE</odeBlockId>
+      <blockName>LA GEOMETRÍA NOS RODEA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8py-83unexop8</odePageId>
+          <odeBlockId>20260322124403XAOXKE</odeBlockId>
+          <odeIdeviceId>202603191924102599NQ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>10 MINUTOS</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>TODO EL GRUPO</dd></div>
+            </dl><p><img src="{{context_path}}/content/resources/202603191924102599NQ/geometria-cotidiana.jpg" width="800" height="400" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><br></p>
+<p><br></p>
+<p>El siguiente vídeo muestra ejemplos claros de geometría en la naturaleza y en el entorno, para que entendáis que la geometría está presente en nuestra rutina diaria, en muchas de las cosas que vemos a diario, y no nos damos cuenta.</p>
+<p><br></p>
+<p><br></p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/FsAvpcClTA4" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br></p>
+<p>Una vez visionado el vídeo, responde a estas preguntas:</p>
+<p>-&nbsp;Nombra una figura geométrica que aparezca en el vídeo.</p>
+<p><br>- ¿Dónde podemos ver hexágonos en la naturaleza?</p>
+<p><br>- ¿Por qué crees que la naturaleza repite ciertas formas?<br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603191924102599NQ","textInfoDurationInput":"10 MINUTOS","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"TODO EL GRUPO","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/202603191924102599NQ/geometria-cotidiana.jpg\" width=\"800\" height=\"400\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>\n<p><br /></p>\n<p>El siguiente vídeo muestra ejemplos claros de geometría en la naturaleza y en el entorno, para que entendáis que la geometría está presente en nuestra rutina diaria, en muchas de las cosas que vemos a diario, y no nos damos cuenta.</p>\n<p><br /></p>\n<p><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/FsAvpcClTA4\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p>Una vez visionado el vídeo, responde a estas preguntas:</p>\n<p>- Nombra una figura geométrica que aparezca en el vídeo.</p>\n<p><br />- ¿Dónde podemos ver hexágonos en la naturaleza?</p>\n<p><br />- ¿Por qué crees que la naturaleza repite ciertas formas?<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8pz-8c6o6q47z</odePageId>
+  <odeParentPageId>page-mn1rc8pw-uv9a6ksz4</odeParentPageId>
+  <pageName>La Geometría de mi entorno.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La Geometría de mi entorno.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La Geometría de mi entorno.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La Geometría de mi entorno.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8pz-8c6o6q47z</odePageId>
+      <odeBlockId>20260322124403EYEQSL</odeBlockId>
+      <blockName>BUSCAMOS FIGURAS GEOMÉTRICAS EN NUESTRO ENTORNO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8pz-8c6o6q47z</odePageId>
+          <odeBlockId>20260322124403EYEQSL</odeBlockId>
+          <odeIdeviceId>20260319203026888642</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><img src="{{context_path}}/content/resources/20260319203026888642/20.31.57.png" width="724" height="726" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><br></p>
+<p>Busca en tu entorno (parque, patio o barrio) figuras geométricas, y detállalas en el siguiente Paddlet colaborativo en el que todos/as iremos añadiendo nuestras aportaciones. Tenemos que completar este muro, ánimo!!</p>
+<p><br></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/v5ylllftr66v11zk" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet"></a></div>
+</div>
+<p style="text-align: center;"><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260319203026888642","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20260319203026888642/20.31.57.png\" width=\"724\" height=\"726\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>\n<p>Busca en tu entorno (parque, patio o barrio) figuras geométricas, y detállalas en el siguiente Paddlet colaborativo en el que todos/as iremos añadiendo nuestras aportaciones. Tenemos que completar este muro, ánimo!!</p>\n<p><br /></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/v5ylllftr66v11zk\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q0-hcjnt47ss</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q0-hcjnt47ss</odePageId>
+      <odeBlockId>20260322124403VKQBUA</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q0-hcjnt47ss</odePageId>
+          <odeBlockId>20260322124403VKQBUA</odeBlockId>
+          <odeIdeviceId>20260320123918500KJ5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><img src="{{context_path}}/content/resources/20260320123918500KJ5/Captura_de_pantalla_2026-03-21_a_las_22.29.19.png" width="930" height="1386" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260320123918500KJ5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20260320123918500KJ5/Captura_de_pantalla_2026-03-21_a_las_22.29.19.png\" width=\"930\" height=\"1386\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q0-hcjnt47ss</odePageId>
+      <odeBlockId>20260322124403UYHHJZ</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q0-hcjnt47ss</odePageId>
+          <odeBlockId>20260322124403UYHHJZ</odeBlockId>
+          <odeIdeviceId>20260320201346990GTB</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Es el momento de practicar con una batería de ejercicios sobre los diferentes conceptos geométricos que ya hemos aprendido. Como siempre, los dividiremos en una fase inicial, donde conoceremos nuestro nivel de partida, una fase de desarrollo, donde trabajaremos nuevos conocimientos realizando actividades de indagación o descubrimiento, de conceptualización y de aplicación, y una fase de consolidación, donde afianzaremos y reforzaremos los contenidos aprendidos.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260320201346990GTB","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es el momento de practicar con una batería de ejercicios sobre los diferentes conceptos geométricos que ya hemos aprendido. Como siempre, los dividiremos en una fase inicial, donde conoceremos nuestro nivel de partida, una fase de desarrollo, donde trabajaremos nuevos conocimientos realizando actividades de indagación o descubrimiento, de conceptualización y de aplicación, y una fase de consolidación, donde afianzaremos y reforzaremos los contenidos aprendidos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q1-abti2thws</odePageId>
+  <odeParentPageId>page-mn1rc8q0-hcjnt47ss</odeParentPageId>
+  <pageName>Fase Inicial</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fase Inicial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fase Inicial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q1-abti2thws</odePageId>
+      <odeBlockId>20260322124403HWJXMM</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q1-abti2thws</odePageId>
+          <odeBlockId>20260322124403HWJXMM</odeBlockId>
+          <odeIdeviceId>20260320095642423WVH</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>🟦<span style="font-size: 14pt;"> <strong>Fase 1: Inicial (Activación y Repaso)</strong></span><br></p>
+<p>En esta fase recordaremos fórmulas básicas, uso de unidades y despeje de variables sencillas.</p>
+<p><span style="text-decoration: underline;">Actividad 1 - El Mural de las Unidades:</span> Tienes una pared de 12m<sup>2</sup>. Si quieres cubrirla con azulejos cuadrados de 20 cm de lado, ¿cuántos azulejos necesitas? <span style="font-size: 10pt;"><em>(Cuidado con el cambio de unidades).</em></span></p>
+<p><br><span style="text-decoration: underline;">Actividad 2 - El Círculo de la Tarta:</span> Una tarta circular tiene una superficie de 706.5 cm<sup>2</sup>. Calcula su radio y la longitud de la cinta que necesitarías para rodearla. <span style="font-size: 10pt;"><em>(Usa pi aprox 3,14).</em></span><br></p>
+<p><span style="text-decoration: underline;">Actividad 3 - Inversa del Cuadrado</span>: Si el perímetro de un cuadrado es igual al área de un rectángulo de base 8 cm y altura 2 cm, ¿cuánto mide el lado del cuadrado?</p>
+<p><br><span style="text-decoration: underline;">Actividad 4 - Sectores Coloridos</span>: Calcula el área de un sector circular de 60 grados en un círculo de 10 cm de radio. ¿Qué fracción del círculo total representa?</p>
+<p><br><span style="text-decoration: underline;">Actividad 5 - Perímetro Irregular</span>: Dibuja en GeoGebra un polígono de 5 lados donde tres lados midan 5 cm y los otros dos sean iguales entre sí, sumando un perímetro total de 25 cm. ¿Cuánto miden los lados desconocidos?</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260320095642423WVH","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🟦<span style=\"font-size: 14pt;\"> <strong>Fase 1: Inicial (Activación y Repaso)</strong></span><br /></p>\n<p>En esta fase recordaremos fórmulas básicas, uso de unidades y despeje de variables sencillas.</p>\n<p><span style=\"text-decoration: underline;\">Actividad 1 - El Mural de las Unidades:</span> Tienes una pared de 12m<sup>2</sup>. Si quieres cubrirla con azulejos cuadrados de 20 cm de lado, ¿cuántos azulejos necesitas? <span style=\"font-size: 10pt;\"><em>(Cuidado con el cambio de unidades).</em></span></p>\n<p><br /><span style=\"text-decoration: underline;\">Actividad 2 - El Círculo de la Tarta:</span> Una tarta circular tiene una superficie de 706.5 cm<sup>2</sup>. Calcula su radio y la longitud de la cinta que necesitarías para rodearla. <span style=\"font-size: 10pt;\"><em>(Usa pi aprox 3,14).</em></span><br /></p>\n<p><span style=\"text-decoration: underline;\">Actividad 3 - Inversa del Cuadrado</span>: Si el perímetro de un cuadrado es igual al área de un rectángulo de base 8 cm y altura 2 cm, ¿cuánto mide el lado del cuadrado?</p>\n<p><br /><span style=\"text-decoration: underline;\">Actividad 4 - Sectores Coloridos</span>: Calcula el área de un sector circular de 60 grados en un círculo de 10 cm de radio. ¿Qué fracción del círculo total representa?</p>\n<p><br /><span style=\"text-decoration: underline;\">Actividad 5 - Perímetro Irregular</span>: Dibuja en GeoGebra un polígono de 5 lados donde tres lados midan 5 cm y los otros dos sean iguales entre sí, sumando un perímetro total de 25 cm. ¿Cuánto miden los lados desconocidos?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q1-8gq3wt5li</odePageId>
+  <odeParentPageId>page-mn1rc8q0-hcjnt47ss</odeParentPageId>
+  <pageName>Fase de Desarrollo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fase de Desarrollo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fase de Desarrollo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q1-8gq3wt5li</odePageId>
+      <odeBlockId>20260322124403YMRGEX</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q1-8gq3wt5li</odePageId>
+          <odeBlockId>20260322124403YMRGEX</odeBlockId>
+          <odeIdeviceId>202603200957104897OV</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><span style="font-size: 14pt;"><strong>🟧 Fase 2: Desarrollo (Cálculo con "Trucos" Geométricos)</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">En esta fase aplicaremos el Teorema de Pitágoras para encontrar datos faltantes antes de calcular el área.</span></p>
+<p><span style="text-decoration: underline;">Actividad 1 - El Hexágono Misterioso</span>: Calcula el área de un hexágono regular de lado 8cm. <em><span style="font-size: 10pt;">Pista: Recuerda que en el hexágono regular, el radio es igual al lado. Tendrás que calcular la apotema primero.</span></em><br></p>
+<p><span style="text-decoration: underline;">Actividad 2 - La Pirámide de Keops</span>: Una pirámide cuadrangular regular tiene una arista de la base de 10 m. y una altura de la pirámide de 12 m. Calcula su área lateral. <em><span style="font-size: 10pt;">(Necesitarás hallar la altura del triángulo de la cara, la apotema de la pirámide).</span></em><br></p>
+<p><span style="text-decoration: underline;">Actividad 3 - El Tejado del Granero:</span> Un tejado tiene forma de prisma triangular. La base del triángulo mide 6 m y sus lados iguales miden 5m. Si el granero tiene 15 m de largo, calcula el área total de la cubierta del tejado.</p>
+<p><span style="text-decoration: underline;">Actividad 4 - Trapecio Isósceles</span>: Calcula el área de un trapecio isósceles cuyas bases miden 20cm y 12 cm, y cuyos lados oblicuos miden 5 cm cada uno.<br></p>
+<p><span style="text-decoration: underline;">Actividad 5 - La Corona Circular</span>: En un parque hay una fuente circular de 2m de radio, rodeada por un camino de césped de 1 m de ancho. Calcula el área de la zona de césped.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202603200957104897OV","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong>🟧 Fase 2: Desarrollo (Cálculo con \"Trucos\" Geométricos)</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">En esta fase aplicaremos el Teorema de Pitágoras para encontrar datos faltantes antes de calcular el área.</span></p>\n<p><span style=\"text-decoration: underline;\">Actividad 1 - El Hexágono Misterioso</span>: Calcula el área de un hexágono regular de lado 8cm. <em><span style=\"font-size: 10pt;\">Pista: Recuerda que en el hexágono regular, el radio es igual al lado. Tendrás que calcular la apotema primero.</span></em><br /></p>\n<p><span style=\"text-decoration: underline;\">Actividad 2 - La Pirámide de Keops</span>: Una pirámide cuadrangular regular tiene una arista de la base de 10 m. y una altura de la pirámide de 12 m. Calcula su área lateral. <em><span style=\"font-size: 10pt;\">(Necesitarás hallar la altura del triángulo de la cara, la apotema de la pirámide).</span></em><br /></p>\n<p><span style=\"text-decoration: underline;\">Actividad 3 - El Tejado del Granero:</span> Un tejado tiene forma de prisma triangular. La base del triángulo mide 6 m y sus lados iguales miden 5m. Si el granero tiene 15 m de largo, calcula el área total de la cubierta del tejado.</p>\n<p><span style=\"text-decoration: underline;\">Actividad 4 - Trapecio Isósceles</span>: Calcula el área de un trapecio isósceles cuyas bases miden 20cm y 12 cm, y cuyos lados oblicuos miden 5 cm cada uno.<br /></p>\n<p><span style=\"text-decoration: underline;\">Actividad 5 - La Corona Circular</span>: En un parque hay una fuente circular de 2m de radio, rodeada por un camino de césped de 1 m de ancho. Calcula el área de la zona de césped.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q2-sprutr5gq</odePageId>
+  <odeParentPageId>page-mn1rc8q0-hcjnt47ss</odeParentPageId>
+  <pageName>Fase de Consolidación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fase de Consolidación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fase de Consolidación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q2-sprutr5gq</odePageId>
+      <odeBlockId>20260322124403FTPATQ</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q2-sprutr5gq</odePageId>
+          <odeBlockId>20260322124403FTPATQ</odeBlockId>
+          <odeIdeviceId>2026032009573721612Z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><br><span style="font-size: 14pt;">🟥<strong> Fase 3: Consolidación (Problemas de Aplicación y Síntesis)</strong></span><br><span style="font-family: arial, helvetica, sans-serif;">En esta fase trabajaremos la r</span><span style="font-family: arial, helvetica, sans-serif;">esolución de problemas complejos, áreas compuestas y optimización.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="text-decoration: underline;">Actividad 1 - El Helado Perfecto</span>: Un barquillo tiene forma de cono de 10 cm de altura y 3 cm de radio. Sobre él hay una bola de helado perfectamente esférica de 3 cm de radio. Calcula el área total de la figura (solo la parte visible exterior).</span><br></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="text-decoration: underline;">Actividad 2 - El Bote de Conservas:</span> Una empresa quiere fabricar botes de cilindro de 15 cm de alto y 4 cm de radio. Si el metal cuesta 0.05 € por cada 100 cm<sup>2,</sup> ¿cuánto costará el material para fabricar 1000 botes?</span></p>
+<p><br><span style="font-family: arial, helvetica, sans-serif;"><span style="text-decoration: underline;">Actividad 3 - Optimización del Terreno:</span> Dispones de 40 metros de valla para cercar un jardín. Tienes dos opciones: un cuadrado o un círculo. ¿Cuál de las dos formas encierra un área mayor? Demuéstralo con cálculos.</span></p>
+<p><br><span style="font-family: arial, helvetica, sans-serif;"><span style="text-decoration: underline;">Actividad 4 - El Icosaedro de Papel</span>: Si un icosaedro regular (20 caras que son triángulos equiláteros) tiene una arista de 6 cm, calcula su área total. <em><span style="font-size: 10pt;">(Recuerda: Área triángulo​= base⋅altura ⁄ 2​).</span></em></span><br></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="text-decoration: underline;">Actividad 5 - Diseño de Logotipo</span>: Diseña en GeoGebra un logo que consista en un cuadrado de lado 10 cm al que se le han recortado cuatro semicírculos (uno en cada lado, hacia adentro). Calcula el área resultante y el perímetro de la figura curva final.</span></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026032009573721612Z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /><span style=\"font-size: 14pt;\">🟥<strong> Fase 3: Consolidación (Problemas de Aplicación y Síntesis)</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">En esta fase trabajaremos la r</span><span style=\"font-family: arial, helvetica, sans-serif;\">esolución de problemas complejos, áreas compuestas y optimización.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"text-decoration: underline;\">Actividad 1 - El Helado Perfecto</span>: Un barquillo tiene forma de cono de 10 cm de altura y 3 cm de radio. Sobre él hay una bola de helado perfectamente esférica de 3 cm de radio. Calcula el área total de la figura (solo la parte visible exterior).</span><br /></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"text-decoration: underline;\">Actividad 2 - El Bote de Conservas:</span> Una empresa quiere fabricar botes de cilindro de 15 cm de alto y 4 cm de radio. Si el metal cuesta 0.05 € por cada 100 cm<sup>2,</sup> ¿cuánto costará el material para fabricar 1000 botes?</span></p>\n<p><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"text-decoration: underline;\">Actividad 3 - Optimización del Terreno:</span> Dispones de 40 metros de valla para cercar un jardín. Tienes dos opciones: un cuadrado o un círculo. ¿Cuál de las dos formas encierra un área mayor? Demuéstralo con cálculos.</span></p>\n<p><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"text-decoration: underline;\">Actividad 4 - El Icosaedro de Papel</span>: Si un icosaedro regular (20 caras que son triángulos equiláteros) tiene una arista de 6 cm, calcula su área total. <em><span style=\"font-size: 10pt;\">(Recuerda: Área triángulo​= base⋅altura ⁄ 2​).</span></em></span><br /></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"text-decoration: underline;\">Actividad 5 - Diseño de Logotipo</span>: Diseña en GeoGebra un logo que consista en un cuadrado de lado 10 cm al que se le han recortado cuatro semicírculos (uno en cada lado, hacia adentro). Calcula el área resultante y el perímetro de la figura curva final.</span></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q2-syssxoqvn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PLANIFICACIÓN</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLANIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLANIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q2-syssxoqvn</odePageId>
+      <odeBlockId>20260322124403NYPSMR</odeBlockId>
+      <blockName>DISEÑAMOS NUESTRO ESPACIO SOSTENIBLE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q2-syssxoqvn</odePageId>
+          <odeBlockId>20260322124403NYPSMR</odeBlockId>
+          <odeIdeviceId>20260320082638940WFZ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Diseña tu espacio sostenible">Diseña tu espacio sostenible</span></dt><dd>04:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>3-4</dd></div>
+            </dl><p style="text-align: center;"><img src="{{context_path}}/content/resources/20260320082638940WFZ/Captura_de_pantalla_2026-03-20_a_las_8.29.59.png" width="1222" height="582" alt=""></p>
+<p>¿Alguna vez te has fijado en cómo se diseñan las plazas de las ciudades o los parques? No son simplemente trozos de tierra; son composiciones de formas geométricas que deben ser funcionales y estéticas. En esta tarea, dejarás de ser un estudiante de matemáticas para convertirte en un arquitecto de exteriores. Tu misión es diseñar un "Espacio Geométrico Abierto" (un parque o plaza pública) utilizando GeoGebra, asegurándote de que cada milímetro esté calculado con precisión.</p>
+<p>&nbsp;<br><span style="font-size: 14pt;"><strong>Tarea Detallada: Diseño de una Plaza Polivalente</strong></span></p>
+<p>El <em>Producto Final</em> de vuestro proyecto consiste en la creación de un contenido audiovisual, sobre el diseño de un espacio sostenible en vuestro entorno, que deberéis subir a un perfil de Instagram creado por vosotros mismos. Debéis producir piezas audiovisuales (Reels o publicaciones dinámicas) que funcionen como píldoras educativas acerca de la geometría. La clave del producto es la interactividad, lanzando retos matemáticos específicos sobre áreas y perímetros a vuestros/as compañeros/as de 1º ESO.</p>
+<p>De esta forma tendréis la oportunidad de comprender cómo las matemáticas pueden aplicarse a situaciones de la vida cotidiana.&nbsp;</p>
+<p>A través de este Producto Final, utilizaréis los conceptos geométricos (área, perímetro, figuras planas y cuerpos geométricos) para interpretar y resolver situaciones relacionadas con la vida real.</p>
+<p>En esta primera fase, vuestra misión es diseñar un espacio sostenible utilizando los conceptos geométricos (área, perímetro, figuras planas y cuerpos geométricos) con la herramienta <a href="https://www.geogebra.org/classic?lang=es" target="_blank" id="link_10" title="" rel="noopener">Geogebra</a>. Podéis también serviros de <a href="https://www.google.es/intl/es/earth/index.html" target="_blank" rel="noopener">Google Earth</a> para ver vuestro entorne desde el aire, a vista de pájaro, y os ayude a la elaboración de vuestro diseño.</p>
+<p><br></p>
+<p><br id="link_0"><span style="text-decoration: underline;">1. Requisitos del Diseño</span><br></p>
+<p>Tu diseño debe realizarse en el plano de <a href="https://www.geogebra.org/classic?lang=es" target="_blank" rel="noopener"><strong><span style="font-family: arial, helvetica, sans-serif;" id="link_1">GeoGebra</span></strong></a> y debe incluir, obligatoriamente, las siguientes zonas representadas por figuras geométricas:</p>
+<p>- Zona de Conciertos (Círculo): Una zona circular central.<br>- Zona de Juegos (Polígono Regular): Un hexágono o pentágono regular.<br>- Zona de Descanso (Trapecio o Rombo): Una zona para bancos y sombra.<br>- Paseo Perimetral (Rectángulo o Polígono Irregular): Una zona que delimite el espacio total.</p>
+<p><br id="link_3"><span style="text-decoration: underline;">2. Pasos a seguir en GeoGebra</span><br></p>
+<p>Configuración: Abre <a href="https://www.geogebra.org/classic?lang=es" target="_blank" rel="noopener">GeoGebra</a> (Geometría o Graficación) y activa la cuadrícula para ayudarte a situar los puntos.<br><span style="text-decoration: underline;">Construcción</span>:</p>
+<p>Utiliza la herramienta "Circunferencia (centro, punto)" para la zona de conciertos.<br>Usa la herramienta "Polígono Regular" para la zona de juegos (elige 5 o 6 vértices).<br>Usa la herramienta "Polígono" para dibujar el trapecio y el rectángulo exterior.<br>Estética: Cambia el color y la opacidad de cada figura para que se diferencien las zonas (ejemplo: verde para descanso, azul para juegos, etc.).</p>
+<p><br><span style="text-decoration: underline;">3. Cálculos Matemáticos (El "Informe Técnico")</span><br></p>
+<p>Una vez diseñado el espacio, debes utilizar las herramientas de medición de GeoGebra, pero también debes realizar los cálculos manualmente en tu cuaderno para comprobar que coinciden. Debes calcular:</p>
+<p>- Áreas: El espacio que ocupa cada zona individualmente.<br>- Perímetros: La longitud del borde de cada zona (útil para saber cuánta valla o bordillo se necesitaría).<br>- Área Total Libre: Calcula el área del rectángulo exterior y réstale la suma de las áreas de las zonas interiores para saber cuánto espacio queda "libre" o de paso.<br></p>
+<p>&nbsp;<br>¡Manos a la obra! Es hora de demostrar que las matemáticas no solo están en los libros, sino en los espacios que habitamos.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260320082638940WFZ","textInfoDurationInput":"04:00","textInfoDurationTextInput":"Diseña tu espacio sostenible","textInfoParticipantsInput":"3-4","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20260320082638940WFZ/Captura_de_pantalla_2026-03-20_a_las_8.29.59.png\" width=\"1222\" height=\"582\" alt=\"\" /></p>\n<p>¿Alguna vez te has fijado en cómo se diseñan las plazas de las ciudades o los parques? No son simplemente trozos de tierra; son composiciones de formas geométricas que deben ser funcionales y estéticas. En esta tarea, dejarás de ser un estudiante de matemáticas para convertirte en un arquitecto de exteriores. Tu misión es diseñar un \"Espacio Geométrico Abierto\" (un parque o plaza pública) utilizando GeoGebra, asegurándote de que cada milímetro esté calculado con precisión.</p>\n<p> <br /><span style=\"font-size: 14pt;\"><strong>Tarea Detallada: Diseño de una Plaza Polivalente</strong></span></p>\n<p>El <em>Producto Final</em> de vuestro proyecto consiste en la creación de un contenido audiovisual, sobre el diseño de un espacio sostenible en vuestro entorno, que deberéis subir a un perfil de Instagram creado por vosotros mismos. Debéis producir piezas audiovisuales (Reels o publicaciones dinámicas) que funcionen como píldoras educativas acerca de la geometría. La clave del producto es la interactividad, lanzando retos matemáticos específicos sobre áreas y perímetros a vuestros/as compañeros/as de 1º ESO.</p>\n<p>De esta forma tendréis la oportunidad de comprender cómo las matemáticas pueden aplicarse a situaciones de la vida cotidiana. </p>\n<p>A través de este Producto Final, utilizaréis los conceptos geométricos (área, perímetro, figuras planas y cuerpos geométricos) para interpretar y resolver situaciones relacionadas con la vida real.</p>\n<p>En esta primera fase, vuestra misión es diseñar un espacio sostenible utilizando los conceptos geométricos (área, perímetro, figuras planas y cuerpos geométricos) con la herramienta <a href=\"https://www.geogebra.org/classic?lang=es\" target=\"_blank\" id=\"link_10\" title=\"\" rel=\"noopener\">Geogebra</a>. Podéis también serviros de <a href=\"https://www.google.es/intl/es/earth/index.html\" target=\"_blank\" rel=\"noopener\">Google Earth</a> para ver vuestro entorne desde el aire, a vista de pájaro, y os ayude a la elaboración de vuestro diseño.</p>\n<p><br /></p>\n<p><br id=\"link_0\" /><span style=\"text-decoration: underline;\">1. Requisitos del Diseño</span><br /></p>\n<p>Tu diseño debe realizarse en el plano de <a href=\"https://www.geogebra.org/classic?lang=es\" target=\"_blank\" rel=\"noopener\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\" id=\"link_1\">GeoGebra</span></strong></a> y debe incluir, obligatoriamente, las siguientes zonas representadas por figuras geométricas:</p>\n<p>- Zona de Conciertos (Círculo): Una zona circular central.<br />- Zona de Juegos (Polígono Regular): Un hexágono o pentágono regular.<br />- Zona de Descanso (Trapecio o Rombo): Una zona para bancos y sombra.<br />- Paseo Perimetral (Rectángulo o Polígono Irregular): Una zona que delimite el espacio total.</p>\n<p><br id=\"link_3\" /><span style=\"text-decoration: underline;\">2. Pasos a seguir en GeoGebra</span><br /></p>\n<p>Configuración: Abre <a href=\"https://www.geogebra.org/classic?lang=es\" target=\"_blank\" rel=\"noopener\">GeoGebra</a> (Geometría o Graficación) y activa la cuadrícula para ayudarte a situar los puntos.<br /><span style=\"text-decoration: underline;\">Construcción</span>:</p>\n<p>Utiliza la herramienta \"Circunferencia (centro, punto)\" para la zona de conciertos.<br />Usa la herramienta \"Polígono Regular\" para la zona de juegos (elige 5 o 6 vértices).<br />Usa la herramienta \"Polígono\" para dibujar el trapecio y el rectángulo exterior.<br />Estética: Cambia el color y la opacidad de cada figura para que se diferencien las zonas (ejemplo: verde para descanso, azul para juegos, etc.).</p>\n<p><br /><span style=\"text-decoration: underline;\">3. Cálculos Matemáticos (El \"Informe Técnico\")</span><br /></p>\n<p>Una vez diseñado el espacio, debes utilizar las herramientas de medición de GeoGebra, pero también debes realizar los cálculos manualmente en tu cuaderno para comprobar que coinciden. Debes calcular:</p>\n<p>- Áreas: El espacio que ocupa cada zona individualmente.<br />- Perímetros: La longitud del borde de cada zona (útil para saber cuánta valla o bordillo se necesitaría).<br />- Área Total Libre: Calcula el área del rectángulo exterior y réstale la suma de las áreas de las zonas interiores para saber cuánto espacio queda \"libre\" o de paso.<br /></p>\n<p> <br />¡Manos a la obra! Es hora de demostrar que las matemáticas no solo están en los libros, sino en los espacios que habitamos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q2-jdxia1djr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREATIVIDAD</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREATIVIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREATIVIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q2-jdxia1djr</odePageId>
+      <odeBlockId>20260322124403NWIXSE</odeBlockId>
+      <blockName>CREAMOS CONTENIDO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q2-jdxia1djr</odePageId>
+          <odeBlockId>20260322124403NWIXSE</odeBlockId>
+          <odeIdeviceId>20260320084140751PXN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>2:00 h</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>3-4</dd></div>
+            </dl><p>Aquí tenéis la propuesta detallada para la segunda parte del proyecto, transformando vuestros diseños de GeoGebra en contenido viral y educativo para Instagram.</p>
+<p>&nbsp;<br><span style="color: #e03e2d;"><strong><span style="font-size: 18pt;">Tarea: "Geometría en Redes: El Reto de la Plaza"</span></strong></span></p>
+<p><br><span style="font-size: 14pt;"><strong>1. Introducción y Objetivo</strong></span><br>Ya habéis demostrado que sois capaces de diseñar espacios públicos funcionales y de calcular sus medidas con precisión matemática usando GeoGebra. Ahora toca dar el siguiente paso: comunicar vuestro conocimiento.</p>
+<p>Vuestra misión es convertiros en divulgadores matemáticos en Instagram. No se trata solo de enseñar vuestro diseño, sino de usarlo como "cebo" para lanzar píldoras educativas interactivas. Vuestro objetivo es que la comunidad escolar (otros alumnos, profesores, e incluso padres) interactúe con vuestro contenido resolviendo retos matemáticos basados en vuestro trabajo.</p>
+<p><span style="font-size: 14pt;"><strong>2. Formato del Contenido</strong></span><br>Tenéis dos opciones para vuestra publicación, pero ambas deben ser dinámicas y visualmente atractivas:</p>
+<p><span style="text-decoration: underline;">Opción A: El Reel (Vídeo corto).</span></p>
+<p>Un vídeo de entre 30 y 60 segundos.<br>Debe tener ritmo, música de tendencia (a bajo volumen) y transiciones.<br>Estructura ideal:</p>
+<p>- Gancho inicial ("¿Sabías que esta plaza es pura matemática?")</p>
+<p>- Presentación rápida de vuestro diseño en GeoGebra.</p>
+<p>- Explicación de UNA fórmula (ej: cómo calculasteis el área del hexágono)</p>
+<p>- El Reto Final.<br></p>
+<p><span style="text-decoration: underline;">Opción B</span>: Publicación Deslizable (Carrusel Dinámico).</p>
+<p>Un mínimo de 4 diapositivas visuales.<br>- Diapositiva 1: Portada impactante con el título del reto.<br>- Diapositiva 2: Imagen clara de vuestro diseño en GeoGebra con las zonas coloreadas.<br>- Diapositiva 3: Una explicación gráfica de cómo calcular el perímetro o el área de UNA de vuestras figuras (ej: el trapecio).<br>- Diapositiva 4: El Reto Final con una llamada a la acción clara.<br></p>
+<p><br></p>
+<p><br></p>
+<p>Debéis tener muy en cuenta las indicaciones que os detallo en la siguiente infografía:</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 212.1212%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHDqiQfEsI/qeFpxQxdcnyvwDhgGmBkhw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p style="text-align: center;"><a href="https://www.canva.com/design/DAHDqiQfEsI/qeFpxQxdcnyvwDhgGmBkhw/view?utm_content=DAHDqiQfEsI&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Paco Alfaro - Infografía Recursos Digitales</a> de Francisco Alfaro Dorado.</p>
+<p style="text-align: center;"><br></p>
+<p><span style="font-size: 14pt;"><strong>3. La Clave: La Interactividad y "El Reto"</strong></span><br>Vuestro contenido no puede ser pasivo. La nota dependerá en gran medida de cómo logréis que la audiencia participe. Para ello, cada publicación debe incluir un Reto Matemático Específico en la última parte del vídeo o carrusel.</p>
+<p><span style="text-decoration: underline;"><em>Ejemplos de Retos</em></span>:</p>
+<p>"Os hemos enseñado cómo calculamos el área de la Zona de Conciertos (el círculo). ¡Ahora os toca a vosotros! Si el radio de nuestra Zona de Juegos hexagonal es de 4 metros, ¿cuál es su perímetro? ¡Déjalo en los comentarios y daremos me gusta a los aciertos!"<br>"Sabiendo que el área total de nuestra plaza es de 500 m<sup>2</sup>&nbsp; y la suma de las áreas de las zonas de descanso y juegos es de 150m<sup>2</sup>, ¿cuántos metros cuadrados quedan libres para el Paseo Perimetral? ¡A ver quién lo adivina primero!"<br></p>
+<p>"Reto para valientes: Si triplicamos el radio de nuestra Zona de Conciertos circular, ¿se triplica también su área? Razona tu respuesta en los comentarios."<br></p>
+<p><span style="text-decoration: underline;">Elementos obligatorios de interactividad</span>:</p>
+<p>Pregunta directa: Lanzar el reto claramente al final.<br>Llamada a la Acción (CTA): "Comenta tu respuesta", "Guarda este Reel para repasar antes del examen", "Comparte con ese amigo que odia las áreas".<br>Uso de Stickers (si es Historia/Reel): Usar el sticker de "Preguntas" o "Cuestionario" para recoger respuestas de forma fácil.</p>
+<p><span style="font-size: 14pt;"><strong></strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Herramientas:</strong></span> Podéis usar <a href="https://www.capcut.com/es-es/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&utm_campaign=brand&pid=359289&af_c_id=22824611990&adset_id=183774578158&ad_id=765461787963&placement=&keyword=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22824611990&gbraid=0AAAAACROvhn77NdmAB_HWpJh9GablV05R&gclid=EAIaIQobChMI6ev90vqwkwMVtUJBAh2pqiNbEAAYASAAEgKtSfD_BwE" id="link_6" target="_blank" title="" rel="noopener">CapCut</a>, <a href="https://www.canva.com/templates" target="_blank" rel="noopener">Canva</a> (para carruseles), o las herramientas nativas de <a href="https://www.instagram.com/" target="_blank" rel="noopener">Instagram.</a><br>El contenido debe subirse al perfil de clase o a un perfil creado específicamente para el proyecto.<br></p>
+<p>Hashtags Obligatorios: #Geometría2ESO, #RetoMatemático, #GeoGebraArt, #IESGuadalmedina.<br></p>
+<p>¿Qué es lo que tenéis que entregar?</p>
+<p>- El enlace a la publicación final en <a href="https://www.instagram.com/" target="_blank" id="link_7" rel="noopener">Instagram</a>.<br>- El guion previo (storyboard o escaleta) donde expliquéis qué visuales y qué texto ibais a usar antes de empezar a editar.<br><span style="font-size: 14pt;"><strong></strong></span></p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260320084140751PXN","textInfoDurationInput":"2:00 h","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"3-4","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí tenéis la propuesta detallada para la segunda parte del proyecto, transformando vuestros diseños de GeoGebra en contenido viral y educativo para Instagram.</p>\n<p> <br /><span style=\"color: #e03e2d;\"><strong><span style=\"font-size: 18pt;\">Tarea: \"Geometría en Redes: El Reto de la Plaza\"</span></strong></span></p>\n<p><br /><span style=\"font-size: 14pt;\"><strong>1. Introducción y Objetivo</strong></span><br />Ya habéis demostrado que sois capaces de diseñar espacios públicos funcionales y de calcular sus medidas con precisión matemática usando GeoGebra. Ahora toca dar el siguiente paso: comunicar vuestro conocimiento.</p>\n<p>Vuestra misión es convertiros en divulgadores matemáticos en Instagram. No se trata solo de enseñar vuestro diseño, sino de usarlo como \"cebo\" para lanzar píldoras educativas interactivas. Vuestro objetivo es que la comunidad escolar (otros alumnos, profesores, e incluso padres) interactúe con vuestro contenido resolviendo retos matemáticos basados en vuestro trabajo.</p>\n<p><span style=\"font-size: 14pt;\"><strong>2. Formato del Contenido</strong></span><br />Tenéis dos opciones para vuestra publicación, pero ambas deben ser dinámicas y visualmente atractivas:</p>\n<p><span style=\"text-decoration: underline;\">Opción A: El Reel (Vídeo corto).</span></p>\n<p>Un vídeo de entre 30 y 60 segundos.<br />Debe tener ritmo, música de tendencia (a bajo volumen) y transiciones.<br />Estructura ideal:</p>\n<p>- Gancho inicial (\"¿Sabías que esta plaza es pura matemática?\")</p>\n<p>- Presentación rápida de vuestro diseño en GeoGebra.</p>\n<p>- Explicación de UNA fórmula (ej: cómo calculasteis el área del hexágono)</p>\n<p>- El Reto Final.<br /></p>\n<p><span style=\"text-decoration: underline;\">Opción B</span>: Publicación Deslizable (Carrusel Dinámico).</p>\n<p>Un mínimo de 4 diapositivas visuales.<br />- Diapositiva 1: Portada impactante con el título del reto.<br />- Diapositiva 2: Imagen clara de vuestro diseño en GeoGebra con las zonas coloreadas.<br />- Diapositiva 3: Una explicación gráfica de cómo calcular el perímetro o el área de UNA de vuestras figuras (ej: el trapecio).<br />- Diapositiva 4: El Reto Final con una llamada a la acción clara.<br /></p>\n<p><br /></p>\n<p><br /></p>\n<p>Debéis tener muy en cuenta las indicaciones que os detallo en la siguiente infografía:</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 212.1212%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHDqiQfEsI/qeFpxQxdcnyvwDhgGmBkhw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://www.canva.com/design/DAHDqiQfEsI/qeFpxQxdcnyvwDhgGmBkhw/view?utm_content=DAHDqiQfEsI&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Paco Alfaro - Infografía Recursos Digitales</a> de Francisco Alfaro Dorado.</p>\n<p style=\"text-align: center;\"><br /></p>\n<p><span style=\"font-size: 14pt;\"><strong>3. La Clave: La Interactividad y \"El Reto\"</strong></span><br />Vuestro contenido no puede ser pasivo. La nota dependerá en gran medida de cómo logréis que la audiencia participe. Para ello, cada publicación debe incluir un Reto Matemático Específico en la última parte del vídeo o carrusel.</p>\n<p><span style=\"text-decoration: underline;\"><em>Ejemplos de Retos</em></span>:</p>\n<p>\"Os hemos enseñado cómo calculamos el área de la Zona de Conciertos (el círculo). ¡Ahora os toca a vosotros! Si el radio de nuestra Zona de Juegos hexagonal es de 4 metros, ¿cuál es su perímetro? ¡Déjalo en los comentarios y daremos me gusta a los aciertos!\"<br />\"Sabiendo que el área total de nuestra plaza es de 500 m<sup>2</sup>  y la suma de las áreas de las zonas de descanso y juegos es de 150m<sup>2</sup>, ¿cuántos metros cuadrados quedan libres para el Paseo Perimetral? ¡A ver quién lo adivina primero!\"<br /></p>\n<p>\"Reto para valientes: Si triplicamos el radio de nuestra Zona de Conciertos circular, ¿se triplica también su área? Razona tu respuesta en los comentarios.\"<br /></p>\n<p><span style=\"text-decoration: underline;\">Elementos obligatorios de interactividad</span>:</p>\n<p>Pregunta directa: Lanzar el reto claramente al final.<br />Llamada a la Acción (CTA): \"Comenta tu respuesta\", \"Guarda este Reel para repasar antes del examen\", \"Comparte con ese amigo que odia las áreas\".<br />Uso de Stickers (si es Historia/Reel): Usar el sticker de \"Preguntas\" o \"Cuestionario\" para recoger respuestas de forma fácil.</p>\n<p><span style=\"font-size: 14pt;\"><strong></strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>Herramientas:</strong></span> Podéis usar <a href=\"https://www.capcut.com/es-es/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&utm_campaign=brand&pid=359289&af_c_id=22824611990&adset_id=183774578158&ad_id=765461787963&placement=&keyword=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22824611990&gbraid=0AAAAACROvhn77NdmAB_HWpJh9GablV05R&gclid=EAIaIQobChMI6ev90vqwkwMVtUJBAh2pqiNbEAAYASAAEgKtSfD_BwE\" id=\"link_6\" target=\"_blank\" title=\"\" rel=\"noopener\">CapCut</a>, <a href=\"https://www.canva.com/templates\" target=\"_blank\" rel=\"noopener\">Canva</a> (para carruseles), o las herramientas nativas de <a href=\"https://www.instagram.com/\" target=\"_blank\" rel=\"noopener\">Instagram.</a><br />El contenido debe subirse al perfil de clase o a un perfil creado específicamente para el proyecto.<br /></p>\n<p>Hashtags Obligatorios: #Geometría2ESO, #RetoMatemático, #GeoGebraArt, #IESGuadalmedina.<br /></p>\n<p>¿Qué es lo que tenéis que entregar?</p>\n<p>- El enlace a la publicación final en <a href=\"https://www.instagram.com/\" target=\"_blank\" id=\"link_7\" rel=\"noopener\">Instagram</a>.<br />- El guion previo (storyboard o escaleta) donde expliquéis qué visuales y qué texto ibais a usar antes de empezar a editar.<br /><span style=\"font-size: 14pt;\"><strong></strong></span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q3-fkthff18t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EXPOSICIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EXPOSICIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EXPOSICIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q3-fkthff18t</odePageId>
+      <odeBlockId>20260322124403IKISVQ</odeBlockId>
+      <blockName>EXPONEMOS NUESTRO TRABAJO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q3-fkthff18t</odePageId>
+          <odeBlockId>20260322124403IKISVQ</odeBlockId>
+          <odeIdeviceId>20260320085659593SDM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">¡Atención, equipos!&nbsp; Llegamos a la fase final del proyecto. Ya tenéis el diseño técnico en GeoGebra y habéis editado vuestras píldoras educativas. Ahora es el momento de pasar a la acción real: el lanzamiento oficial.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Vuestro público objetivo no será cualquiera: vuestros "clientes" y alumnos serán los compañeros de 1º de ESO. Tenéis que demostrar que vuestro diseño es el más interesante y vuestros retos, los más desafiantes.</span></p>
+<h1><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">&nbsp;</span><span style="color: #e03e2d; font-family: arial, helvetica, sans-serif; font-size: 18pt;"><strong>Tarea Final: "El Gran Desafío Geométrico. 1º ESO vs 3º ESO"</strong></span></h1>
+<p><br><span style="font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>1. El Lanzamiento en <a href="https://www.instagram.com/" target="_blank" id="link_5" rel="noopener"><em id="link_4">Instagram</em></a></strong></span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Cada grupo deberá subir su contenido (Reel o Carrusel) al perfil oficial del proyecto de la clase. Pero ojo, no es solo "subir y ya". Para que el algoritmo nos ayude y el alumnado de 1º de ESO participe, debéis cuidar estos detalles:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="text-decoration: underline;">Portada Gancho</span>: La primera imagen o el primer segundo del vídeo debe tener un texto grande que diga: "¿Eres más listo que un alumno de 3º? "Acepta el reto"&nbsp;</span><br><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">El RETO bien claro (el cálculo de área o perímetro que habéis preparado).</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Una mención directa: "Etiqueta a un amigo de 1º de ESO para ver si es capaz de resolverlo".</span></p>
+<p><br><span style="font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>2. Dinámica de Interacción (Mentores Matemáticos)</strong></span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Vuestro trabajo no termina al publicar. Durante la semana que dure la actividad, tendréis que gestionar vuestra publicación como auténticos Community Managers:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Si alguien de 1º de ESO responde correctamente en los comentarios, debéis contestarle con un emoji de celebración (🔥, 🏆, ✅).</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Si alguien falla o dice que es difícil, dadle una pista geométrica (ej: "Recuerda que para el hexágono necesitas conocer la apotema").</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Subid una Story a las 24 horas de la publicación con una encuesta o un sticker de "Verdadero o Falso" sobre una propiedad de vuestro diseño (ej: "¿El perímetro de nuestro círculo es mayor que 20 unidades? Sí/No").</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">&nbsp;</span><br><span style="font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>3. El Producto Final a Entregar</strong></span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Para dar por cerrada la tarea, cada grupo entregará un breve informe (puede ser un PDF de una sola página) con:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">- Enlace directo a vuestra publicación.</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">- Captura de pantalla de los mejores comentarios o respuestas recibidas de los alumnos de 1º de ESO.</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">- Reflexión: ¿Cuál fue el error más común que cometieron los de 1º al intentar resolver vuestro reto? ¿Cómo les ayudasteis a entenderlo?</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Recordad que estamos representando al departamento de Matemáticas. Revisad la ortografía y aseguraos de que vuestros cálculos son perfectos antes de corregir a los demás. ¡A por ello!</span><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260320085659593SDM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">¡Atención, equipos!  Llegamos a la fase final del proyecto. Ya tenéis el diseño técnico en GeoGebra y habéis editado vuestras píldoras educativas. Ahora es el momento de pasar a la acción real: el lanzamiento oficial.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Vuestro público objetivo no será cualquiera: vuestros \"clientes\" y alumnos serán los compañeros de 1º de ESO. Tenéis que demostrar que vuestro diseño es el más interesante y vuestros retos, los más desafiantes.</span></p>\n<h1><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><span style=\"color: #e03e2d; font-family: arial, helvetica, sans-serif; font-size: 18pt;\"><strong>Tarea Final: \"El Gran Desafío Geométrico. 1º ESO vs 3º ESO\"</strong></span></h1>\n<p><br /><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"><strong>1. El Lanzamiento en <a href=\"https://www.instagram.com/\" target=\"_blank\" id=\"link_5\" rel=\"noopener\"><em id=\"link_4\">Instagram</em></a></strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cada grupo deberá subir su contenido (Reel o Carrusel) al perfil oficial del proyecto de la clase. Pero ojo, no es solo \"subir y ya\". Para que el algoritmo nos ayude y el alumnado de 1º de ESO participe, debéis cuidar estos detalles:</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"text-decoration: underline;\">Portada Gancho</span>: La primera imagen o el primer segundo del vídeo debe tener un texto grande que diga: \"¿Eres más listo que un alumno de 3º? \"Acepta el reto\" </span><br /><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">El RETO bien claro (el cálculo de área o perímetro que habéis preparado).</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Una mención directa: \"Etiqueta a un amigo de 1º de ESO para ver si es capaz de resolverlo\".</span></p>\n<p><br /><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"><strong>2. Dinámica de Interacción (Mentores Matemáticos)</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Vuestro trabajo no termina al publicar. Durante la semana que dure la actividad, tendréis que gestionar vuestra publicación como auténticos Community Managers:</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Si alguien de 1º de ESO responde correctamente en los comentarios, debéis contestarle con un emoji de celebración (🔥, 🏆, ✅).</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Si alguien falla o dice que es difícil, dadle una pista geométrica (ej: \"Recuerda que para el hexágono necesitas conocer la apotema\").</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Subid una Story a las 24 horas de la publicación con una encuesta o un sticker de \"Verdadero o Falso\" sobre una propiedad de vuestro diseño (ej: \"¿El perímetro de nuestro círculo es mayor que 20 unidades? Sí/No\").</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span><br /><span style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"><strong>3. El Producto Final a Entregar</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Para dar por cerrada la tarea, cada grupo entregará un breve informe (puede ser un PDF de una sola página) con:</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Enlace directo a vuestra publicación.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Captura de pantalla de los mejores comentarios o respuestas recibidas de los alumnos de 1º de ESO.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Reflexión: ¿Cuál fue el error más común que cometieron los de 1º al intentar resolver vuestro reto? ¿Cómo les ayudasteis a entenderlo?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Recordad que estamos representando al departamento de Matemáticas. Revisad la ortografía y aseguraos de que vuestros cálculos son perfectos antes de corregir a los demás. ¡A por ello!</span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q3-n1u28qj83</odePageId>
+  <odeParentPageId>page-mn1rc8q3-fkthff18t</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q3-n1u28qj83</odePageId>
+      <odeBlockId>20260322124403VLJIEG</odeBlockId>
+      <blockName>¿CÓMO OS PUNTUARÉ?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q3-n1u28qj83</odePageId>
+          <odeBlockId>20260322124403VLJIEG</odeBlockId>
+          <odeIdeviceId>20260320130559184H5M</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>A continuación os detallo cómo evaluaré vuestro proyecto, para que atinéis bien y consigáis alcanzar la puntación máxima.</p>
+<p>Detallo cada una de las tareas asociadas al proyecto, y su criterio de evaluación asociado:</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20260320130559184H5M/9.49.48.png" width="1200" height="631" alt=""><br></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>COMPETENCIAS ESPECÍFICAS TRABAJADAS EN EL PROYECTO:</strong></p>
+<p><br>3. Formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación, para generar nuevo conocimiento.</p>
+<p>6. Identificar las matemáticas implicadas en otras materias, en situaciones reales y en el entorno, susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas.</p>
+<p>8. Comunicar de forma individual y colectiva conceptos, procedimientos y argumentos matemáticos, usando lenguaje oral, escrito o gráfico, utilizando la terminología matemática apropiada, para dar significado y coherencia a las ideas matemáticas.</p>
+<p>10. Desarrollar destrezas sociales, reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, para fomentar el bienestar personal y grupal y para crear relaciones saludables.&nbsp;</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>Vuestra creación audiovisual la calificaré con la siguiente rúbrica:</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20260320130559184H5M/Captura_de_pantalla_2026-03-20_a_las_20.10.40.png" width="1440" height="715" alt=""></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>Por otro lado, vuestro trabajo en equipo e implicación personal, lo mediré mediante una Diana de Evaluación&nbsp;</p>
+<p>Os tendréis que autoevaluar, puntuando del 1 al 4 (siendo 4 el máximo) vuestro grado de cumplimiento en cada eje.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20260320130559184H5M/13.14.42.png" width="1090" height="812" alt="">&nbsp;</p>
+<p>Si alguno/a de vosotros/as se autoevalúa con un 4 en "Trabajo en equipo" pero vuestros compañeros os dan un 1 (variable de conflicto), realizaré una entrevista grupal para mediar.<br><br></p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260320130559184H5M","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación os detallo cómo evaluaré vuestro proyecto, para que atinéis bien y consigáis alcanzar la puntación máxima.</p>\n<p>Detallo cada una de las tareas asociadas al proyecto, y su criterio de evaluación asociado:</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20260320130559184H5M/9.49.48.png\" width=\"1200\" height=\"631\" alt=\"\" /><br /></p>\n<p><strong> </strong></p>\n<p><strong>COMPETENCIAS ESPECÍFICAS TRABAJADAS EN EL PROYECTO:</strong></p>\n<p><br />3. Formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación, para generar nuevo conocimiento.</p>\n<p>6. Identificar las matemáticas implicadas en otras materias, en situaciones reales y en el entorno, susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas.</p>\n<p>8. Comunicar de forma individual y colectiva conceptos, procedimientos y argumentos matemáticos, usando lenguaje oral, escrito o gráfico, utilizando la terminología matemática apropiada, para dar significado y coherencia a las ideas matemáticas.</p>\n<p>10. Desarrollar destrezas sociales, reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, para fomentar el bienestar personal y grupal y para crear relaciones saludables. </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p>Vuestra creación audiovisual la calificaré con la siguiente rúbrica:</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20260320130559184H5M/Captura_de_pantalla_2026-03-20_a_las_20.10.40.png\" width=\"1440\" height=\"715\" alt=\"\" /></p>\n<p>       </p>\n<p>Por otro lado, vuestro trabajo en equipo e implicación personal, lo mediré mediante una Diana de Evaluación </p>\n<p>Os tendréis que autoevaluar, puntuando del 1 al 4 (siendo 4 el máximo) vuestro grado de cumplimiento en cada eje.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20260320130559184H5M/13.14.42.png\" width=\"1090\" height=\"812\" alt=\"\" /> </p>\n<p>Si alguno/a de vosotros/as se autoevalúa con un 4 en \"Trabajo en equipo\" pero vuestros compañeros os dan un 1 (variable de conflicto), realizaré una entrevista grupal para mediar.<br /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1rc8q3-4sz5eylna</odePageId>
+  <odeParentPageId>page-mn1rc8q3-n1u28qj83</odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1rc8q3-4sz5eylna</odePageId>
+      <odeBlockId>20260322124403PIAFUY</odeBlockId>
+      <blockName>AUTORÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1rc8q3-4sz5eylna</odePageId>
+          <odeBlockId>20260322124403PIAFUY</odeBlockId>
+          <odeIdeviceId>20260321225104371BF4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><span style="font-size: 14pt;"><strong>🏁 Nodo Final: Créditos y Recursos del Proyecto</strong></span><br><span style="text-decoration: underline;">Título del Recurso</span>: <strong>Geometría Urbana: Del Plano de GeoGebra al Reel de Instagram</strong>.<br><span style="text-decoration: underline;">Nivel Educativo:</span> 3º de ESO - Matemáticas.<br><span style="text-decoration: underline;">Descripción:</span> Secuencia didáctica integrada que combina geometría plana y espacial, herramientas de diseño asistido por ordenador (GeoGebra) y divulgación de contenidos STEM a través de redes sociales, con atención a la diversidad (NEAE).<br>&nbsp;<br>👤 Autoría y Colaboración<br>Autor/a: Francisco Alfaro Dorado<br>Centro Educativo: IES Guadalmedina (Málaga)<br>Año de creación: 2026<br>Herramientas utilizadas: Padlet, GeoGebra, Instagram, CapCut, Canva.<br>&nbsp;<br>🔓 Licencia de Uso<br>Este material educativo se publica bajo la licencia:</p>
+<p>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>
+<p>Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.<br>&nbsp;<br>📩 Contacto<br>Para dudas, sugerencias o compartir resultados, podéis contactar a través de:</p>
+<p>Email: falfdor6243@g.educaand.es<br>Instagram del Proyecto: @3ºESOIESGuadalmedina</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260321225104371BF4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong>🏁 Nodo Final: Créditos y Recursos del Proyecto</strong></span><br /><span style=\"text-decoration: underline;\">Título del Recurso</span>: <strong>Geometría Urbana: Del Plano de GeoGebra al Reel de Instagram</strong>.<br /><span style=\"text-decoration: underline;\">Nivel Educativo:</span> 3º de ESO - Matemáticas.<br /><span style=\"text-decoration: underline;\">Descripción:</span> Secuencia didáctica integrada que combina geometría plana y espacial, herramientas de diseño asistido por ordenador (GeoGebra) y divulgación de contenidos STEM a través de redes sociales, con atención a la diversidad (NEAE).<br /> <br />👤 Autoría y Colaboración<br />Autor/a: Francisco Alfaro Dorado<br />Centro Educativo: IES Guadalmedina (Málaga)<br />Año de creación: 2026<br />Herramientas utilizadas: Padlet, GeoGebra, Instagram, CapCut, Canva.<br /> <br />🔓 Licencia de Uso<br />Este material educativo se publica bajo la licencia:</p>\n<p>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>\n<p>Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.<br /> <br />📩 Contacto<br />Para dudas, sugerencias o compartir resultados, podéis contactar a través de:</p>\n<p>Email: falfdor6243@g.educaand.es<br />Instagram del Proyecto: @3ºESOIESGuadalmedina</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
